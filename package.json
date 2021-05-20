@@ -1,0 +1,25 @@
+{
+  "name": "NotionToMarkdown",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/InSeong-So/NotionToMarkdown.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/InSeong-So/NotionToMarkdown/issues"
+  },
+  "homepage": "https://github.com/InSeong-So/NotionToMarkdown#readme",
+  "dependencies": {
+    "child_process": "1.0.2",
+    "dotenv": "9.0.2"
+  }
+}
